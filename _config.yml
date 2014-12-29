@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Desrik's DevLog
-tagline: 
+tagline: Where thoughts meet the web...
 author :
   name : Donnie McNabb
   email : koderkore@gmail.com
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : desriksdevlog
     livefyre :
       site_id : 123
     intensedebate :
